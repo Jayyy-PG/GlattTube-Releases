@@ -1,4 +1,4 @@
-# GlattTube-Releases
+# GlattHUB-Releases
 
 ## Neueste Version herunterladen
 
