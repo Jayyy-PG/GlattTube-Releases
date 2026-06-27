@@ -13,7 +13,7 @@ Komprimierung, Downloader und automatischer Ordner-Organisation.
 
 [![Download](https://img.shields.io/badge/⬇_Download-GlattTube-d63a3a?style=for-the-badge)](https://github.com/Jayyy-PG/glatttube-releases/releases/latest)
 &nbsp;
-[![Latest Release](https://img.shields.io/github/v/release/Jayyy-PG/glatttube-releases?style=for-the-badge&color=161c22&label=Version)](https://github.com/Jayyy-PG/glatttube-releases/releases/latest)
+[![Latest Release](https://img.shields.io/github/v/release/Jayyy-PG/glatttube-releases?include_prereleases&sort=semver&style=for-the-badge&color=161c22&label=Version)](https://github.com/Jayyy-PG/glatttube-releases/releases/latest)
 
 <sub>Windows 10/11 · 64-bit</sub>
 
