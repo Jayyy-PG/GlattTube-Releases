@@ -23,7 +23,7 @@ Komprimierung, Downloader und automatischer Ordner-Organisation.
 
 ## ⬇️ Installation
 
-1. Lade die aktuelle **`GlattTube Setup x.y.z.exe`** von der
+1. Lade die aktuelle **`GlattTube-Setup.exe`** von der
    [**Releases-Seite**](https://github.com/Jayyy-PG/glatttube-releases/releases/latest) herunter.
 2. Doppelklick und dem Installer folgen.
 3. App starten – Updates installieren sich danach automatisch.
@@ -45,17 +45,6 @@ Komprimierung, Downloader und automatischer Ordner-Organisation.
 - ⭐ **Favoriten, Verlauf, Playlists** & Mehrfachauswahl
 - 🔎 **Suche** über Titel, Beschreibung & Tags
 - 🌑 Durchgängiges Dunkeldesign · automatische Updates
-
----
-
-## 📸 Screenshots
-
-> _Hier Screenshots einfügen: lege Bilder unter `assets/` ab und verlinke sie hier._
-
-<!--
-<img src="assets/screenshot-mediathek.png" width="800" alt="Mediathek" />
-<img src="assets/screenshot-player.png" width="800" alt="Player" />
--->
 
 ---
 
